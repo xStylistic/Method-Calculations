@@ -18,12 +18,12 @@ public class Methods {
         System.out.println("\n------------- Calculation Options Menu -------------");
         System.out.println("\n1 = GCF Calculator");
         System.out.println("2 = Factorial Calculator");
-        System.out.println("3 = Slope of line Calculator");
-        System.out.println("4 = Midpoint of a line Calculator");
+        System.out.println("3 = Slope of Line Calculator");
+        System.out.println("4 = Midpoint of a Line Calculator");
         System.out.println("5 = Circumference of a Circle Calculator");
         System.out.println("6 = Area of a Circle Calculator");
         System.out.println("7 = Prime Number Checker");
-        System.out.println("8 = Percentage Calculator");
+        System.out.println("8 = Percentage of a Number Calculator");
         System.out.println("9 = Pythagorean Theorem Calculator");
         System.out.println("10 = Speed, Distance, Time Calculator");
         System.out.println("0 = Exit program");
