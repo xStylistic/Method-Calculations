@@ -7,7 +7,7 @@ import java.util.*;
  * 10 Calculation Methods 
  * This program can perform 10 different types of calculations based on the number the user enters
  * @author Bonny Chen 
- */
+ **/
 
 public class Methods {
     
